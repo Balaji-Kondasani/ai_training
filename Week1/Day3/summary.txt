@@ -1,0 +1,7 @@
+Numpy Use Cases and Advantages 
+
+Basic Numpy 
+    1. creation of numpy array 
+    2. creation of arrays
+    3. array functions
+    4. 
