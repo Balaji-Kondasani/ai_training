@@ -1,0 +1,15 @@
+
+Keyword , Positional and Default Arguments
+
+*args and **kwargs
+
+Global and Local Variables
+
+Nested Functions
+
+Functions Are first class citizens
+
+Lambda Functions
+
+Map , Filter and Reduce
+
